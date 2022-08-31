@@ -37,3 +37,15 @@
     transform: translateY(0px);
   }
 }
+
+table {
+  width: 99%;
+}
+
+table td {
+  text-align: left;
+}
+
+input {
+  width: 98%;
+}
